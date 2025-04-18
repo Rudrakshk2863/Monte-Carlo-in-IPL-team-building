@@ -1,0 +1,12 @@
+Final Team: ['IshanKishan', 'ShreyasIyer', 'DevduttPadikkal', 'RavindraJadeja', 'JosButtler', 'RashidKhan', 'MSDhoni', 'AndreRussell', 'PatCummins', 'KaneWilliamson', 'PrithviShaw']
+Skill Ratings: [68, 81, 67, 87, 87, 90, 92, 89, 85, 83, 66]
+Prices: [1.0, 3.0, 1.0, 5.0, 5.0, 8.0, 6.0, 7.0, 5.0, 3.0, 1.0]
+Total Skill: 895
+Total Price: 45.0
+
+Team budget exceeded
+Final Team: ['ABdeVilliers', 'KagisoRabada', 'DwayneBravo', 'MSDhoni', 'YuzvendraChahal', 'ShikharDhawan', 'JasonHolder', 'KaneWilliamson', 'PatCummins', 'SanjuSamson', 'HardikPandya']
+Skill Ratings: [96, 91, 75, 92, 83, 86, 77, 83, 85, 80, 88]
+Prices: [11.0, 7.0, 1.0, 6.0, 3.0, 4.0, 3.0, 3.0, 5.0, 2.0, 5.0]
+Total Skill: 936
+Total Price: 50.0
